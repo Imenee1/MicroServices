@@ -1,0 +1,10 @@
+/home/imanebelhaj/Documents/billing-service/src/main/java/org/sid/billingservice/entities/ProductItem.java
+/home/imanebelhaj/Documents/billing-service/src/main/java/org/sid/billingservice/repository/ProductItemRepository.java
+/home/imanebelhaj/Documents/billing-service/src/main/java/org/sid/billingservice/BillingServiceApplication.java
+/home/imanebelhaj/Documents/billing-service/src/main/java/org/sid/billingservice/web/BillingRestController.java
+/home/imanebelhaj/Documents/billing-service/src/main/java/org/sid/billingservice/entities/Bill.java
+/home/imanebelhaj/Documents/billing-service/src/main/java/org/sid/billingservice/feign/CustomerRestClient.java
+/home/imanebelhaj/Documents/billing-service/src/main/java/org/sid/billingservice/repository/BillRepository.java
+/home/imanebelhaj/Documents/billing-service/src/main/java/org/sid/billingservice/model/Customer.java
+/home/imanebelhaj/Documents/billing-service/src/main/java/org/sid/billingservice/model/Product.java
+/home/imanebelhaj/Documents/billing-service/src/main/java/org/sid/billingservice/feign/ProductItemRestClient.java
